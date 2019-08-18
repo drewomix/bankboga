@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "bankboga",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
